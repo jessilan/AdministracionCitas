@@ -1,9 +1,0 @@
-C:\Users\jessi\source\repos\JessicaHernandez-Project\CapaLogica\obj\Debug\CapaLogica.csproj.AssemblyReference.cache
-C:\Users\jessi\source\repos\JessicaHernandez-Project\CapaLogica\obj\Debug\CapaLogica.csproj.CoreCompileInputs.cache
-C:\Users\jessi\source\repos\JessicaHernandez-Project\CapaLogica\bin\Debug\CapaLogica.dll
-C:\Users\jessi\source\repos\JessicaHernandez-Project\CapaLogica\bin\Debug\CapaLogica.pdb
-C:\Users\jessi\source\repos\JessicaHernandez-Project\CapaLogica\bin\Debug\CapaEntidades.dll
-C:\Users\jessi\source\repos\JessicaHernandez-Project\CapaLogica\bin\Debug\CapaEntidades.pdb
-C:\Users\jessi\source\repos\JessicaHernandez-Project\CapaLogica\obj\Debug\CapaLogica.csproj.Up2Date
-C:\Users\jessi\source\repos\JessicaHernandez-Project\CapaLogica\obj\Debug\CapaLogica.dll
-C:\Users\jessi\source\repos\JessicaHernandez-Project\CapaLogica\obj\Debug\CapaLogica.pdb
